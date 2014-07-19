@@ -1,11 +1,11 @@
 kml-php
 =======
 
-Generamos un xml con php tomando datos de una base de datos para poder manejar el api de google earth y generar geolocalizacion 
+Generamos un xml con php tomando datos de una base de datos para poder manejar el api de google earth y generar geolocalizacion <br>
 herramientas/SW necesarios. 
--Mysql.
--PHP 5.X.
--Apache server.
+- Mysql.
+- PHP 5.X.
+- Apache server.
 cada carpeta va en el servidor de apache  tambien esta el sql para crear la base de datos 
 **Carpetas***
 - kml + php , es como esta echo el la conexcion con la api.
